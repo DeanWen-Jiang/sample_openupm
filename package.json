@@ -1,5 +1,5 @@
 {
-  "name": "sample_openupm_package",
+  "name": "com.sample_openupm.package",
   "version": "1.0.0",
   "description": "My awesome package",
   "main": "index.js",
